@@ -57,17 +57,25 @@
       float: left;
       margin-right: 10px;
       margin-bottom: 10px;
+    }
 
-      #contact {
-        float: right;
-        width: 40%;
-        margin-left: 10px;
-        margin-bottom: 10px;
-        font-family: sans-serif;
-        font-size: 14px;
-        color: rgb(18, 107, 232);
-        background-color: rgb(237, 237, 237);
-      }
+    #contact {
+      float: right;
+      width: 40%;
+      margin-left: 10px;
+      margin-bottom: 10px;
+      font-family: sans-serif;
+      font-size: 14px;
+      color: rgb(18, 107, 232);
+      background-color: rgb(237, 237, 237);
+    }
+
+    #dziubdziaksy {
+      width: 300px;
+      float: left;
+      margin-right: 15px;
+      margin-bottom: 15px;
+    }
   </style>
 </head>
 
@@ -85,6 +93,8 @@
         <br> Heptapodlings 
         </p> 
   </a>
+  
+  
 
   <img id="robotesse" src="https://www.kasandbox.org/programming-images/avatars/robot_female_2.png">
 
